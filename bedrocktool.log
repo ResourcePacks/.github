@@ -1,0 +1,7 @@
+time="2023-10-14T01:42:19+07:00" level=info msg="Bedrocktool Version 1.32.0-22"
+time="2023-10-14T01:42:43+07:00" level=info msg="Connecting to 20.27.75.66:30330"
+time="2023-10-14T01:43:20+07:00" level=debug msg="received remote pack infos"
+time="2023-10-14T01:43:20+07:00" level=debug msg="received remote resourcepack stack, starting game"
+time="2023-10-14T01:43:25+07:00" level=debug msg="Connected to server."
+time="2023-10-14T01:43:50+07:00" level=error msg="error downloading resource pack: Get \"https://mccdnprod-endpoint.azureedge.net/public/0ff1c1a1-f4fa-40cf-807a-57de0037ff7e/rp.zip\": dial tcp 13.107.246.73:443: i/o timeout"
+time="2023-10-14T01:43:50+07:00" level=info msg="Press Enter to exit."
