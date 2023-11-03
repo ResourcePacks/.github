@@ -1,1 +1,0 @@
-php mcpackToZip.php
