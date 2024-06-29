@@ -1,326 +1,0 @@
-time="2024-06-29T22:25:52+07:00" level=info msg="Bedrocktool Version 1.38.0-12" part=main
-Available Commands:
-	blind-proxy	raknet proxy
-	realm-address	gets realms address
-	list-realms	prints all realms you have access to
-	skins	download skins from players on a server
-	worlds	download a world from a server
-	capture	capture packets in a pcap file
-	chat-log	logs chat to a file
-	debug-proxy	verbose debug packets
-	packs	download resource packs from a server
-	update	self updates to latest version
-	trans	
-Use 'bedrocktool <command>' to run a command
-Input Command: Input Command: -[KInput Command: -  ❌[K[4DInput Command: -e[KInput Command: -e  ❌[K[4DInput Command: -ex[KInput Command: -ex  ❌[K[4DInput Command: -ext[KInput Command: -ext  ❌[K[4DInput Command: -extr[KInput Command: -extr  ❌[K[4DInput Command: -extra[KInput Command: -extra  ❌[K[4DInput Command: -extra-[KInput Command: -extra-  ❌[K[4DInput Command: -extra-d[KInput Command: -extra-d  ❌[K[4DInput Command: -extra-de[KInput Command: -extra-de  ❌[K[4DInput Command: -extra-deb[KInput Command: -extra-deb  ❌[K[4DInput Command: -extra-debu[KInput Command: -extra-debu  ❌[K[4DInput Command: -extra-debug[KInput Command: -extra-debug  ❌[K[4DInput Command: -extra-debug [KInput Command: -extra-debug   ❌[K[4DInput Command: -extra-debug p[KInput Command: -extra-debug p  ❌[K[4DInput Command: -extra-debug pa[KInput Command: -extra-debug pa  ❌[K[4DInput Command: -extra-debug pac[KInput Command: -extra-debug pack[KInput Command: -extra-debug pac  ❌[K[4DInput Command: -extra-debug pack  ❌[K[4DInput Command: -extra-debug packs[KInput Command: -extra-debug packs  ❌[K[4D
-Enter Server: Enter Server: g[KEnter Server: ge[KEnter Server: geo[KEnter Server: geo.[KEnter Server: geo.h[KEnter Server: geo.hi[KEnter Server: geo.hiv[KEnter Server: geo.hive[KEnter Server: geo.hiveb[KEnter Server: geo.hivebe[KEnter Server: geo.hivebed[KEnter Server: geo.hivebedr[KEnter Server: geo.hivebedro[KEnter Server: geo.hivebedroc[KEnter Server: geo.hivebedrock[KEnter Server: geo.hivebedrock.[KEnter Server: geo.hivebedrock.n[KEnter Server: geo.hivebedrock.ne[KEnter Server: geo.hivebedrock.net[KEnter Server: geo.hivebedrock.netw[KEnter Server: geo.hivebedrock.netwo[KEnter Server: geo.hivebedrock.networ[KEnter Server: geo.hivebedrock.network[K
-time="2024-06-29T22:25:58+07:00" level=info msg="Connecting to geo.hivebedrock.network:19132"
-time="2024-06-29T22:26:01+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0xc1, packet.RequestNetworkSettings"
-time="2024-06-29T22:26:01+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x8f, packet.NetworkSettings"
-time="2024-06-29T22:26:01+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x01, packet.Login"
-time="2024-06-29T22:26:01+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x03, packet.ServerToClientHandshake"
-time="2024-06-29T22:26:01+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x04, packet.ClientToServerHandshake"
-time="2024-06-29T22:26:02+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x02, packet.PlayStatus"
-time="2024-06-29T22:26:02+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x81, packet.ClientCacheStatus"
-time="2024-06-29T22:26:02+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x06, packet.ResourcePacksInfo"
-time="2024-06-29T22:26:02+07:00" level=debug msg="received rtime="2024-06-29T22:31:43+07:00" level=error msg="program closing"
-time="2024-06-29T22:31:43+07:00" level=info msg="Press Enter to exit."
-ourcePackClientResponse"
-time="2024-06-29T22:26:02+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:02+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:03+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:04+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:05+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:06+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:07+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:08+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:09+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:10+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:11+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x08, packet.ResourcePackClientResponse"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x07, packet.ResourcePackStack"
-time="2024-06-29T22:26:19+07:00" level=debug msg="received remote resourcepack stack, starting game" part=ResourcePacks
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x08, packet.ResourcePackClientResponse"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0xb4, packet.DimensionData"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0b, packet.StartGame"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x45, packet.RequestChunkRadius"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x91, packet.CreativeContent"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x7a, packet.BiomeDefinitionList"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x77, packet.AvailableActorIdentifiers"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0xa2, packet.ItemComponent"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x12e, packet.TrimData"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x134, packet.SetHud"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0xc6, packet.CameraPresets"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x4c, packet.AvailableCommands"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x46, packet.ChunkRadiusUpdated"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0xbc, packet.UpdateAdventureSettings"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0xbb, packet.UpdateAbilities"
-time="2024-06-29T22:26:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x02, packet.PlayStatus"
-time="2024-06-29T22:26:19+07:00" level=debug msg="Connected to server."
-time="2024-06-29T22:26:19+07:00" level=info msg="Writing keys to keys.db"
-time="2024-06-29T22:26:19+07:00" level=info msg="ResourcePack(Id: b3b805bb-8ae7-314b-b31d-7bf3333350ed Key: JHI4SU72NMNLQMYO4YYW3JVOAESQU2IC | Name: BlockParty Track! Summer Pop 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: af2470a9-9281-3749-bf6d-978edef86437 Key: EJTSA3GRS2HCL53NYVPBXY5F5RR66NUG | Name: BlockParty Track! Kawaii 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: 6e98c06d-e027-3dc2-87f1-783297e3df83 Key: FMVJRB5UQ3S57LTFAY5BOJ6C2UL3NIFE | Name: BlockParty Track! Electro 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: ff148b1f-e624-4127-aaa7-f9eea9927b45 Key:  | Name: Hive Block Patch 0.0.833)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: 1654a7c4-8e30-3294-b583-897ded5bcfdb Key: XGASQQZXWOHO3IEEX6O37PY2XPDJPL3Y | Name: Hive UI 1.1.0)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: 0df1bddb-d36c-34bd-aa56-1e5292be1d1e Key: 5WBHPJPNG4NTTMXOLMXEE3K5PTGKQVOW | Name: Hive Replay Cinema 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: 00257c94-4b6c-3031-be6b-58d200426c08 Key: VECPIEVFI4LDUQ2JT6V2264XVLOJ3LDU | Name: HiveWARS 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: 99f33975-3d61-3e52-9519-dbf6800887b7 Key: EBPA5AX2F4RLOQI4QBCTMVTENHRJPD6Q | Name: HiveSKY 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: f5d571be-469e-3269-bef4-05c6890ec772 Key: D3PGZFEU4FDMKB433S6DSQWGIBOOUIVT | Name: HiveDR 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: c75e3bb7-3dfb-3820-b205-e66d0544b2e0 Key: W2TRTO4LRWJWSVBAXVEWIFF3THOUNRG2 | Name: HiveCommon 0.0.1)"
-time="2024-06-29T22:26:20+07:00" level=info msg="ResourcePack(Id: 01a80b1a-0220-3126-893b-e2dd21d5722d Key: RN235NCJCFKKVDEIS62NJ4GCIGYQOWLA | Name: The Hive! Hub 1.0.0)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: f038712a-f1e2-3317-8a04-be5759ea8969 Key: V5C34UJLIWV74JIDA3FI43CNBOCSLROK | Name: CTF Assets_f038712a-f1e2-3317-8a04-be5759ea8969 1.0.0)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: e53ee318-d5b9-3bee-89f9-cde364b2c47c Key: 53PS7O5BDST2IGMWGBAWKIKBI4WA24D6 | Name: BlockDrop 0.0.2)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: 4df0f282-df97-334c-bb91-3e734e214d53 Key: SVGTOFSHPSJKLIATEKZGCMKX3FYZ25YG | Name: CTF Assets_4df0f282-df97-334c-bb91-3e734e214d53 1.0.0)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: 7454a0ba-1517-37e5-9c91-23dba3c05b3b Key: AEMPBCTIT66DU7VVIISB4J4HJLN7CMEW | Name: HiveTERRITORY 0.0.1)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: 16ef9bca-9855-37f9-bdc5-77969de17590 Key: MIRYJMYCPLDODTVM4MIWR6ON7E7AVHT2 | Name: Hive! Hide and Seek 0.0.1)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: d56cd551-c5bb-33f9-a815-b53385f98420 Key: Z62YSAC2FENMSKBOAHPLHFQVNDHJVZP4 | Name: Hive! Murder Mystery 0.0.1)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: c87a73a2-b836-3d19-a726-c91442990918 Key: SCLSHVFA6NJ3AHUTQ5B3LWKYLLZSH2UU | Name: Hive! Blocks 1.0.0)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: 83e08b90-7730-35e5-8019-2e39d6f4839f Key: K4SMXKIHWF336XKOX5VQECFN65QIA2HO | Name: Hive! BlockParty 0.0.1)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: a3534fc3-4b73-33fe-b92f-902a3e8aa24a Key: RF3SIZCWV7QS3HOBS357EB3YNR3F3FJS | Name: GRAV Assets 1.0.0)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: 0b6e953f-6e9f-3e87-b639-68aa92317299 Key: IFWCLXRYYGRYYOUOIWDSL4ZRMZJTVKTX | Name: HiveSG 1.0.0)"
-time="2024-06-29T22:26:21+07:00" level=info msg="ResourcePack(Id: 4958efc1-e00a-36c6-9c4d-22ab22e81983 Key: RP7XGNIKHNKOWSGCQFHQSOZ7US7TI4SO | Name: Hive! BedWars 0.0.1)"
-time="2024-06-29T22:26:22+07:00" level=info msg="ResourcePack(Id: 5d389924-ab8e-3d58-b1bd-0130aad20da6 Key: 5CI6WRY5RSURX3WLZCQIE2AZRFFSOQSJ | Name: HivePets 0.0.1)"
-time="2024-06-29T22:26:22+07:00" level=info msg="Press Enter to exit."
