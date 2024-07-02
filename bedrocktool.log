@@ -1,20 +1,0 @@
-time="2024-07-02T00:14:07+07:00" level=info msg="Bedrocktool Version 1.38.0-16" part=main
-Available Commands:
-	update	self updates to latest version
-	skins	download skins from players on a server
-	worlds	download a world from a server
-	debug-proxy	verbose debug packets
-	realm-address	gets realms address
-	list-realms	prints all realms you have access to
-	packs	download resource packs from a server
-	blind-proxy	raknet proxy
-	capture	capture packets in a pcap file
-	chat-log	logs chat to a file
-	trans	
-Use 'bedrocktool <command>' to run a command
-Input Command: Input Command: d[KInput Command: d  ❌[K[4DInput Command: de[KInput Command: de  ❌[K[4DInput Command: deu[KInput Command: deu  ❌[K[4DInput Command: deug[KInput Command: deug  ❌[K[4DInput Command: deugs[KInput Command: deugs  ❌[K[4DInput Command: deug[KInput Command: deug  ❌[K[4DInput Command: deu[KInput Command: deu  ❌[K[4DInput Command: de[KInput Command: de  ❌[K[4DInput Command: d[KInput Command: d  ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: -[KInput Command: -  ❌[K[4DInput Command: -d[KInput Command: -d  ❌[K[4DInput Command: -de[KInput Command: -de  ❌[K[4DInput Command: -deb[KInput Command: -deb  ❌[K[4DInput Command: -debu[KInput Command: -debu  ❌[K[4DInput Command: -debug[KInput Command: -debug  ❌[K[4DInput Command: -debug [KInput Command: -debug   ❌[K[4DInput Command: -debug s[KInput Command: -debug s  ❌[K[4DInput Command: -debug sk[KInput Command: -debug sk  ❌[K[4DInput Command: -debug ski[KInput Command: -debug ski  ❌[K[4DInput Command: -debug skin[KInput Command: -debug skin  ❌[K[4DInput Command: -debug skins[KInput Command: -debug skins  ❌[K[4D
-Enter Server: Enter Server: 1[KEnter Server: 1.[KEnter Server: 1.5[KEnter Server: 1.53[KEnter Server: 1.53.[KEnter Server: 1.53.9[KEnter Server: 1.53.99[KEnter Server: 1.53.99.[KEnter Server: 1.53.99.7[KEnter Server: 1.53.99.70[KEnter Server: 1.53.99.70:[KEnter Server: 1.53.99.70:1[KEnter Server: 1.53.99.70:19[KEnter Server: 1.53.99.70:191[KEnter Server: 1.53.99.70:1913[KEnter Server: 1.53.99.70:19132[K
-time="2024-07-02T00:14:21+07:00" level=info msg="Listening on [::]:19132"
-time="2024-07-02T00:14:21+07:00" level=info msg="Open Minecraft and connect to this computers local ip address to continue"
-time="2024-07-02T00:15:35+07:00" level=error msg="program closing"
-time="2024-07-02T00:15:35+07:00" level=info msg="Press Enter to exit."
