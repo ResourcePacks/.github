@@ -1,156 +1,20 @@
-time="2024-06-30T22:15:55+07:00" level=info msg="Bedrocktool Version 1.38.0-15" part=main
+time="2024-07-02T00:14:07+07:00" level=info msg="Bedrocktool Version 1.38.0-16" part=main
 Available Commands:
-	chat-log	logs chat to a file
-	update	self updates to latest version
+	update	self updates to latest version
 	skins	download skins from players on a server
-	trans	
 	worlds	download a world from a server
-	blind-proxy	raknet proxy
-	capture	capture packets in a pcap file
 	debug-proxy	verbose debug packets
 	realm-address	gets realms address
 	list-realms	prints all realms you have access to
 	packs	download resource packs from a server
+	blind-proxy	raknet proxy
+	capture	capture packets in a pcap file
+	chat-log	logs chat to a file
+	trans	
 Use 'bedrocktool <command>' to run a command
-Input Command: Input Command: p[KInput Command: p  ❌[K[4DInput Command: pa[KInput Command: pa  ❌[K[4DInput Command: pac[KInput Command: pac  ❌[K[4DInput Command: pack[KInput Command: pack  ❌[K[4DInput Command: pac[KInput Command: pac  ❌[K[4DInput Command: pa[KInput Command: pa  ❌[K[4DInput Command: p[KInput Command: p  ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: -[KInput Command: -  ❌[K[4DInput Command: -e[KInput Command: -e  ❌[K[4DInput Command: -ex[KInput Command: -ex  ❌[K[4DInput Command: -ext[KInput Command: -ext  ❌[K[4DInput Command: -extr[KInput Command: -extr  ❌[K[4DInput Command: -extra[KInput Command: -extra  ❌[K[4DInput Command: -extra-[KInput Command: -extra-  ❌[K[4DInput Command: -extra-d[KInput Command: -extra-d  ❌[K[4DInput Command: -extra-de[KInput Command: -extra-de  ❌[K[4DInput Command: -extra-deb[KInput Command: -extra-deb  ❌[K[4DInput Command: -extra-debu[KInput Command: -extra-debu  ❌[K[4DInput Command: -extra-debug[KInput Command: -extra-debug  ❌[K[4DInput Command: -extra-debug [KInput Command: -extra-debug   ❌[K[4DInput Command: -extra-debug p[KInput Command: -extra-debug p  ❌[K[4DInput Command: -extra-debug pa[KInput Command: -extra-debug pa  ❌[K[4DInput Command: -extra-debug pac[KInput Command: -extra-debug pac  ❌[K[4DInput Command: -extra-debug pack[KInput Command: -extra-debug pack  ❌[K[4DInput Command: -extra-debug packs[KInput Command: -extra-debug packs  ❌[K[4D
-Enter Server: Enter Server: z[KEnter Server: ze[KEnter Server: zeq[KEnter Server: zeqa[KEnter Server: zeqa.[KEnter Server: zeqa.n[KEnter Server: zeqa.ne[KEnter Server: zeqa.net[K
-time="2024-06-30T22:16:08+07:00" level=info msg="Connecting to zeqa.net:19132"
-time="2024-06-30T22:16:12+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0xc1, packet.RequestNetworkSettings"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x8f, packet.NetworkSettings"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x01, packet.Login"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x03, packet.ServerToClientHandshake"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x04, packet.ClientToServerHandshake"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x02, packet.PlayStatus"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x81, packet.ClientCacheStatus"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x06, packet.ResourcePacksInfo"
-time="2024-06-30T22:16:13+07:00" level=debug msg="received remote pack infos" part=ResourcePacks
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x08, packet.ResourcePackClientResponse"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x52, packet.ResourcePackDataInfo"
-time="2024-06-30T22:16:13+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:14+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:14+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:15+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:15+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:16+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:16+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:17+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:17+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:18+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:18+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:19+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:19+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:19+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:20+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:20+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:20+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:20+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:20+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:20+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:21+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:21+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:21+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:21+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x54, packet.ResourcePackChunkRequest"
-time="2024-06-30T22:16:21+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x53, packet.ResourcePackChunkData"
-time="2024-06-30T22:16:21+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x08, packet.ResourcePackClientResponse"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x07, packet.ResourcePackStack"
-time="2024-06-30T22:16:22+07:00" level=debug msg="received remote resourcepack stack, starting game" part=ResourcePacks
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x08, packet.ResourcePackClientResponse"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0b, packet.StartGame"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x45, packet.RequestChunkRadius"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x77, packet.AvailableActorIdentifiers"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x7a, packet.BiomeDefinitionList"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x4c, packet.AvailableCommands"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0xbb, packet.UpdateAbilities"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0xbc, packet.UpdateAdventureSettings"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x31, packet.InventoryContent"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x31, packet.InventoryContent"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x31, packet.InventoryContent"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x31, packet.InventoryContent"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x31, packet.InventoryContent"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x31, packet.InventoryContent"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x32, packet.InventorySlot"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x32, packet.InventorySlot"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x32, packet.InventorySlot"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x32, packet.InventorySlot"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x32, packet.InventorySlot"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x91, packet.CreativeContent"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x34, packet.CraftingData"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x3f, packet.PlayerList"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x3f, packet.PlayerList"
-time="2024-06-30T22:16:22+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x46, packet.ChunkRadiusUpdated"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x0c, packet.AddPlayer"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x20, packet.MobArmourEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x1f, packet.MobEquipment"
-time="2024-06-30T22:16:23+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x02, packet.PlayStatus"
-time="2024-06-30T22:16:23+07:00" level=debug msg="Connected to server."
-time="2024-06-30T22:16:23+07:00" level=info msg="Writing keys to keys.db"
-time="2024-06-30T22:16:23+07:00" level=info msg="ResourcePack(Id: f7bb54c8-f244-4bd9-bacb-2eb7005953c1 Key:  | Name: §e§lZeqa §f§lNetwork§r 2.0.0)"
-time="2024-06-30T22:16:23+07:00" level=info msg="ResourcePack(Id: 8656a9ba-4693-459c-b27f-8638648460e6 Key:  | Name: §e§lZeqa §f§lUI§r §6Season 7.5 §8! §gSG 7.5.0)"
-time="2024-06-30T22:16:23+07:00" level=info msg="Press Enter to exit."
+Input Command: Input Command: d[KInput Command: d  ❌[K[4DInput Command: de[KInput Command: de  ❌[K[4DInput Command: deu[KInput Command: deu  ❌[K[4DInput Command: deug[KInput Command: deug  ❌[K[4DInput Command: deugs[KInput Command: deugs  ❌[K[4DInput Command: deug[KInput Command: deug  ❌[K[4DInput Command: deu[KInput Command: deu  ❌[K[4DInput Command: de[KInput Command: de  ❌[K[4DInput Command: d[KInput Command: d  ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: [KInput Command:   ❌[K[4DInput Command: -[KInput Command: -  ❌[K[4DInput Command: -d[KInput Command: -d  ❌[K[4DInput Command: -de[KInput Command: -de  ❌[K[4DInput Command: -deb[KInput Command: -deb  ❌[K[4DInput Command: -debu[KInput Command: -debu  ❌[K[4DInput Command: -debug[KInput Command: -debug  ❌[K[4DInput Command: -debug [KInput Command: -debug   ❌[K[4DInput Command: -debug s[KInput Command: -debug s  ❌[K[4DInput Command: -debug sk[KInput Command: -debug sk  ❌[K[4DInput Command: -debug ski[KInput Command: -debug ski  ❌[K[4DInput Command: -debug skin[KInput Command: -debug skin  ❌[K[4DInput Command: -debug skins[KInput Command: -debug skins  ❌[K[4D
+Enter Server: Enter Server: 1[KEnter Server: 1.[KEnter Server: 1.5[KEnter Server: 1.53[KEnter Server: 1.53.[KEnter Server: 1.53.9[KEnter Server: 1.53.99[KEnter Server: 1.53.99.[KEnter Server: 1.53.99.7[KEnter Server: 1.53.99.70[KEnter Server: 1.53.99.70:[KEnter Server: 1.53.99.70:1[KEnter Server: 1.53.99.70:19[KEnter Server: 1.53.99.70:191[KEnter Server: 1.53.99.70:1913[KEnter Server: 1.53.99.70:19132[K
+time="2024-07-02T00:14:21+07:00" level=info msg="Listening on [::]:19132"
+time="2024-07-02T00:14:21+07:00" level=info msg="Open Minecraft and connect to this computers local ip address to continue"
+time="2024-07-02T00:15:35+07:00" level=error msg="program closing"
+time="2024-07-02T00:15:35+07:00" level=info msg="Press Enter to exit."
