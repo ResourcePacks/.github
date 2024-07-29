@@ -1,0 +1,19 @@
+time="2024-07-29T21:22:35+07:00" level=info msg="Bedrocktool Version 1.39.1-21" part=main
+Available Commands:
+	merge	merge worlds
+	capture	capture packets in a pcap file
+	chat-log	logs chat to a file
+	debug-proxy	verbose debug packets
+	list-realms	prints all realms you have access to
+	update	self updates to latest version
+	worlds	download a world from a server
+	blind-proxy	raknet proxy
+	realm-address	gets realms address
+	packs	download resource packs from a server
+	skins	download skins from players on a server
+	trans	
+Use 'bedrocktool <command>' to run a command
+Input Command: Input Command: -[KInput Command: -  ❌[K[4DInput Command: -e[KInput Command: -e  ❌[K[4DInput Command: -ex[KInput Command: -ex  ❌[K[4DInput Command: -ext[KInput Command: -ext  ❌[K[4DInput Command: -extr[KInput Command: -extr  ❌[K[4DInput Command: -extra[KInput Command: -extra  ❌[K[4DInput Command: -extra-[KInput Command: -extra-  ❌[K[4DInput Command: -extra-d[KInput Command: -extra-d  ❌[K[4DInput Command: -extra-de[KInput Command: -extra-de  ❌[K[4DInput Command: -extra-deb[KInput Command: -extra-deb  ❌[K[4DInput Command: -extra-debu[KInput Command: -extra-debu  ❌[K[4DInput Command: -extra-debug[KInput Command: -extra-debug  ❌[K[4DInput Command: -extra-debug [KInput Command: -extra-debug   ❌[K[4DInput Command: -extra-debug p[KInput Command: -extra-debug p  ❌[K[4DInput Command: -extra-debug pa[KInput Command: -extra-debug pa  ❌[K[4DInput Command: -extra-debug pac[KInput Command: -extra-debug pac  ❌[K[4DInput Command: -extra-debug pack[KInput Command: -extra-debug pack  ❌[K[4DInput Command: -extra-debug packs[KInput Command: -extra-debug packs  ❌[K[4D
+Enter Server: Enter Server: p[KEnter Server: pl[KEnter Server: pla[KEnter Server: play[KEnter Server: play.[KEnter Server: play.e[KEnter Server: play.en[KEnter Server: play.enc[KEnter Server: play.ench[KEnter Server: play.encha[KEnter Server: play.enchan[KEnter Server: play.enchant[KEnter Server: play.enchante[KEnter Server: play.enchanted[KEnter Server: play.enchanted.[KEnter Server: play.enchanted.g[KEnter Server: play.enchanted.gg[K
+time="2024-07-29T21:22:42+07:00" level=info msg="Connecting to play.enchanted.gg:19132"
+time="2024-07-29T21:23:02+07:00" level=error msg="dial raknet: dial udp: lookup play.enchanted.gg: i/o timeout" part=main
