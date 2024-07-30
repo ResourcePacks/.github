@@ -1,30 +1,30 @@
-time="2024-07-30T19:45:30+07:00" level=info msg="Bedrocktool Version 1.39.1-24" part=main
+time="2024-07-30T19:47:27+07:00" level=info msg="Bedrocktool Version 1.39.1-24" part=main
 Available Commands:
-	debug-proxy	verbose debug packets
+	chat-log	logs chat to a file
+	realm-address	gets realms address
 	list-realms	prints all realms you have access to
 	update	self updates to latest version
 	skins	download skins from players on a server
-	worlds	download a world from a server
-	merge	merge worlds
-	capture	capture packets in a pcap file
-	chat-log	logs chat to a file
 	trans	
+	merge	merge worlds
 	blind-proxy	raknet proxy
-	realm-address	gets realms address
+	capture	capture packets in a pcap file
+	debug-proxy	verbose debug packets
 	packs	download resource packs from a server
+	worlds	download a world from a server
 Use 'bedrocktool <command>' to run a command
-Input Command: Input Command: -[KInput Command: -  ❌[K[4DInput Command: -e[KInput Command: -e  ❌[K[4DInput Command: -ex[KInput Command: -ex  ❌[K[4DInput Command: -ext[KInput Command: -ext  ❌[K[4DInput Command: -extr[KInput Command: -extr  ❌[K[4DInput Command: -extra[KInput Command: -extra  ❌[K[4DInput Command: -extra-[KInput Command: -extra-  ❌[K[4DInput Command: -extra-d[KInput Command: -extra-d  ❌[K[4DInput Command: -extra-de[KInput Command: -extra-de  ❌[K[4DInput Command: -extra-deb[KInput Command: -extra-deb  ❌[K[4DInput Command: -extra-debu[KInput Command: -extra-debu  ❌[K[4DInput Command: -extra-debug[KInput Command: -extra-debug  ❌[K[4DInput Command: -extra-debug [KInput Command: -extra-debug   ❌[K[4DInput Command: -extra-debug p[KInput Command: -extra-debug p  ❌[K[4DInput Command: -extra-debug pa[KInput Command: -extra-debug pa  ❌[K[4DInput Command: -extra-debug pac[KInput Command: -extra-debug pac  ❌[K[4DInput Command: -extra-debug pack[KInput Command: -extra-debug pack  ❌[K[4DInput Command: -extra-debug packs[KInput Command: -extra-debug packs  ❌[K[4D
+Input Command: Input Command: -[KInput Command: -e[KInput Command: -e  ❌[K[4DInput Command: -ex[KInput Command: -ex  ❌[K[4DInput Command: -ext[KInput Command: -ext  ❌[K[4DInput Command: -extr[KInput Command: -extr  ❌[K[4DInput Command: -extra[KInput Command: -extra  ❌[K[4DInput Command: -extra-[KInput Command: -extra-  ❌[K[4DInput Command: -extra-d[KInput Command: -extra-d  ❌[K[4DInput Command: -extra-de[KInput Command: -extra-de  ❌[K[4DInput Command: -extra-deb[KInput Command: -extra-deb  ❌[K[4DInput Command: -extra-debu[KInput Command: -extra-debu  ❌[K[4DInput Command: -extra-debug[KInput Command: -extra-debug  ❌[K[4DInput Command: -extra-debug [KInput Command: -extra-debug   ❌[K[4DInput Command: -extra-debug p[KInput Command: -extra-debug p  ❌[K[4DInput Command: -extra-debug pa[KInput Command: -extra-debug pa  ❌[K[4DInput Command: -extra-debug pac[KInput Command: -extra-debug pac  ❌[K[4DInput Command: -extra-debug pack[KInput Command: -extra-debug pack  ❌[K[4DInput Command: -extra-debug packs[KInput Command: -extra-debug packs  ❌[K[4D
 Enter Server: Enter Server: 1[KEnter Server: 1.[KEnter Server: 1.5[KEnter Server: 1.54[KEnter Server: 1.54.[KEnter Server: 1.54.1[KEnter Server: 1.54.16[KEnter Server: 1.54.164[KEnter Server: 1.54.164.[KEnter Server: 1.54.164.8[KEnter Server: 1.54.164.89[K
-time="2024-07-30T19:45:35+07:00" level=info msg="Connecting to 1.54.164.89:19132"
-time="2024-07-30T19:45:35+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0xc1, packet.RequestNetworkSettings"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x8f, packet.NetworkSettings"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x01, packet.Login"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x03, packet.ServerToClientHandshake"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x04, packet.ClientToServerHandshake"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x02, packet.PlayStatus"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x81, packet.ClientCacheStatus"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x06, packet.ResourcePacksInfo"
-time="2024-07-30T19:45:36+07:00" level=debug msg="received remote pack infos" part=ResourcePacks
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x08, packet.ResourcePackClientResponse"
-time="2024-07-30T19:45:36+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x05, packet.Disconnect"
-time="2024-07-30T19:45:36+07:00" level=error msg="dial minecraft 192.168.1.6:52060->1.54.164.89:19132: El acceso a las texturas está restringido. / Access to the textures is restricted. (Error ID: 8333-a198-2242)" part=main
+time="2024-07-30T19:47:34+07:00" level=info msg="Connecting to 1.54.164.89:19132"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0xc1, packet.RequestNetworkSettings"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x8f, packet.NetworkSettings"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x01, packet.Login"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x03, packet.ServerToClientHandshake"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x04, packet.ClientToServerHandshake"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x02, packet.PlayStatus"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x81, packet.ClientCacheStatus"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x06, packet.ResourcePacksInfo"
+time="2024-07-30T19:47:35+07:00" level=debug msg="received remote pack infos" part=ResourcePacks
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[36mC\x1b[0m->\x1b[32mS\x1b[0m 0x08, packet.ResourcePackClientResponse"
+time="2024-07-30T19:47:35+07:00" level=debug msg="\x1b[32mS\x1b[0m->\x1b[36mC\x1b[0m 0x05, packet.Disconnect"
+time="2024-07-30T19:47:35+07:00" level=error msg="dial minecraft 192.168.1.6:65119->1.54.164.89:19132: El acceso a las texturas está restringido. / Access to the textures is restricted. (Error ID: 9dfe-7e69-3436)" part=main
